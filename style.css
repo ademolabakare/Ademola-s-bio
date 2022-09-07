@@ -17,7 +17,7 @@ body {
       z-index:1000;
   }
   #a{
-      background: rgba(250, 4, 4, 0.7) url("file:///C:/Users/ademola/Desktop/MASTERIMAGE/bio%20header.webp");
+      background: rgba(250, 4, 4, 0.7) url("https://user-images.githubusercontent.com/106655720/188863063-197c0f8a-c842-49c3-b661-68fae054bcf0.jpeg");
       background-size: cover;
       background-blend-mode:darken;
       overflow: hidden;
